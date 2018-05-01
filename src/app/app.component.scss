@@ -1,0 +1,3 @@
+$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+// Note: The font path has to be set before the import statement to $icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';. See: https://stackoverflow.com/questions/40526233/angular2-bootstrap-sass-compilation-error-using-angular-cli
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
